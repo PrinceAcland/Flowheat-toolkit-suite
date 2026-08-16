@@ -17,7 +17,7 @@ shared object-oriented Python library:
 
 ## 🔗 Live app
 
-**Live Streamlit app:** [https://flowheat-toolkit-suite-pgathrsfkuqmxsk9f4ddeb.streamlit.app/]
+**Live Streamlit app:** _[PASTE YOUR STREAMLIT COMMUNITY CLOUD URL HERE AFTER DEPLOYING]_
 
 ## Project structure
 
